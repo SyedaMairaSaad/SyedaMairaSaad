@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" raw="true" width="880" height="400" />
 <h1 align="center">Hi 👋, I'm Syeda Maira Saad (Maira Bilal)</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
