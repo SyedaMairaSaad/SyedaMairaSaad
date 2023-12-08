@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedamairasaad&show_icons=true&locale=en" alt="syedamairasaad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamairasaad&" alt="syedamairasaad" /></p>
-<a href="https://www.coursera.org/professional-certificates" target="_blank"></a>
+
