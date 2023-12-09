@@ -21,6 +21,12 @@
 
 Welcome to the Noun Quiz Program! This Python script is designed to engage users in a fun and educational quiz focused on different aspects of nouns. The quiz covers topics such as choosing correct nouns, identifying proper or common nouns, and writing the plural forms of nouns.</td>
     </tr>
+     <tr>
+      <td><img src="https://play-lh.googleusercontent.com/zPxLgj5nvl20ahJV7aFC6S5mD8kii5CEEDj25j1P9CYAfXL9sdDuO-8eES0r4DhJHrU=w480-h960-rw" width="250px" height="150px"/></td>
+      <td><a href="https://github.com/SyedaMairaSaad/Games">Games</a><br/>
+      <b>TicTacToe</b><br/>
+
+Simple Tic Tac Toe Game </tr>
   </body>
 </table>
 <h3 align="left">Certifications:</h3>
@@ -28,6 +34,16 @@ Welcome to the Noun Quiz Program! This Python script is designed to engage users
 <ul>
   <li>
   <a href="https://www.coursera.org/account/accomplishments/certificate/UDQM6MXMQ8CM">Agile with Atlassian Jira</a>
+</li>
+</ul>
+<h3 align="left">Python:</h3>
+<ul>
+  <li>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/9JNGPQRXVUJA">Programming for Everybody (Getting Started with
+Python)</a>
+</li>
+   <li>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/YUHB8YXBLQZB">Python Data Structures</a>
 </li>
 </ul>
 <h3 align="left">Java Programming & it's Frameworks:</h3>
