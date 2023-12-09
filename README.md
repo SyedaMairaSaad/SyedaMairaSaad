@@ -15,8 +15,11 @@
 <table>
   <body>
     <tr>
-      <td><img src="https://github.com/SyedaMairaSaad/Quiz/blob/master/banner.jpg" width="100px" height="100px"/></td>
-      <td><a href="https://github.com/SyedaMairaSaad/Quiz">Quiz</a></td>
+      <td><img src="https://play-lh.googleusercontent.com/2y0nslmQeGxBzCTcoaEZPSGkbAqWD4-5ESGUKAFSGatlNlVX1wL6aasMGCPEys_gRpw=w480-h960-rw" width="250px" height="150px"/></td>
+      <td><a href="https://github.com/SyedaMairaSaad/Quiz">Quiz</a><br/>
+      <b>Introduction to Noun Quiz Program:</b><br/>
+
+Welcome to the Noun Quiz Program! This Python script is designed to engage users in a fun and educational quiz focused on different aspects of nouns. The quiz covers topics such as choosing correct nouns, identifying proper or common nouns, and writing the plural forms of nouns.</td>
     </tr>
   </body>
 </table>
