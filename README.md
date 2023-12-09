@@ -23,6 +23,29 @@ Welcome to the Noun Quiz Program! This Python script is designed to engage users
     </tr>
   </body>
 </table>
+<h3 align="left">Certifications:</h3>
+<h3 align="left">Project Management:</h3>
+<ul>
+  <li>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/UDQM6MXMQ8CM">Agile with Atlassian Jira</a>
+</li>
+</ul>
+<h3 align="left">Java Programming & it's Frameworks:</h3>
+<ul>
+  <li>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/A4877UCP959">Advanced Java</a><br/>
+    <ul>
+      <li>Servlets and JSP</li>
+      <li>Maven</li>
+      <li>Restful Webservice with Spring Boot</li>
+      <li>Curd operations with Postman</li>
+      <li>Microservices VS monolithic Application Development</li>
+      <li>Building microservices using Spring Boot</li>
+      <li>Netflix Eureka and Spring Cloud</li>
+    </ul>
+    
+</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/syeda-maira-saad-168720a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syeda-maira-saad-168720a9/" height="30" width="40" /></a>
