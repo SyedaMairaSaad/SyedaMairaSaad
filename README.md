@@ -65,6 +65,7 @@ Python)</a>
    <li>
   <a href="https://www.coursera.org/account/accomplishments/certificate/YUHB8YXBLQZB">Python Data Structures</a>
 </li>
+  <li><a href="https://www.coursera.org/account/accomplishments/verify/RNP2NEXFEV97">Using Python to Access Web Data</a></li>
 </ul>
 <h3 align="left">Data Science:</h3>
 <ul>
