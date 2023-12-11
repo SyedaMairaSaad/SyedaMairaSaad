@@ -66,6 +66,21 @@ Python)</a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/YUHB8YXBLQZB">Python Data Structures</a>
 </li>
 </ul>
+<h3 align="left">Data Science:</h3>
+<ul>
+  <li>
+  <a href="https://www.coursera.org/account/accomplishments/verify/TRFPK69BMDRA">What is Data Science? By IBM</a>
+</li>
+   <li>
+  <a href="https://www.coursera.org/account/accomplishments/verify/SLYSAG7XCFX7">Tools for Data Science By IBM</a>
+</li>
+   <li>
+  <a href="https://www.coursera.org/account/accomplishments/verify/DBSP4CM6PPCC">Data Science Methodlogy By IBM</a>
+</li>
+     <li>
+  <a href="https://www.coursera.org/account/accomplishments/verify/4H44RM9EBA69">Databases and SQL for Data Science with Python By IBM</a>
+</li>
+</ul>
 <h3 align="left">Java Programming & it's Frameworks:</h3>
 <ul>
   <li>
