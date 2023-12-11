@@ -29,6 +29,26 @@ Welcome to the Noun Quiz Program! This Python script is designed to engage users
 Simple Tic Tac Toe Game </tr>
   </body>
 </table>
+<h3 align="left">Data Science project:</h3>
+<table>
+  <body>
+    <tr>
+      <td><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*NCO1DF14J42HEQWR.jpg" width="250px" height="150px"/></td>
+      <td><a href="https://github.com/SyedaMairaSaad/KarachiPropertySale">Property Price</a><br/>
+      <b>Karachi Property:</b><br/>
+The objective of a house property price data science project is to build a predictive model that can estimate the price of a house based on its features. Here are specific objectives related to the features of the house:<br/>
+<b>1-	Feature Importance Analysis:</b><br/>
+Identify and rank the importance of different features in influencing the house price. This helps in understanding which characteristics have the most significant impact.<br/>
+<b>2-	Feature Engineering:</b><br/>
+Explore and create new features that might better capture the underlying patterns in the data, improving the model's predictive performance.<br/>
+<b>3-	Addressing Missing Values:</b><br/>
+Develop strategies for handling missing values in the dataset, such as imputation or exclusion of instances with missing data.<br/>
+
+</td>
+    </tr>
+    </body>
+    </table>
+    
 <h3 align="left">Certifications:</h3>
 <h3 align="left">Project Management:</h3>
 <ul>
